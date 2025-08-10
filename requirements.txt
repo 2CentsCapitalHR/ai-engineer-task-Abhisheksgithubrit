@@ -1,0 +1,10 @@
+streamlit
+python-docx
+scikit-learn
+nltk
+spacy
+langchain
+openai
+python-dotenv
+numpy
+pandas
